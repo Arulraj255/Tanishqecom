@@ -1,0 +1,3 @@
+# Python dependencies for Tanishq E-Commerce Customer Interactions Tracking
+# No external dependencies required - uses only Python standard library
+# Python 3.7+ recommended
